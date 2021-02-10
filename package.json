@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://kimleegalarneau.github.io/ex1-signets",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "gh-pages": "^3.1.0",
     "node-sass": "^5.0.0",
     "react": "^17.0.1",
