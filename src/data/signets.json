@@ -1,42 +1,50 @@
 [
     {
-        "nom": "Cadriciels",
+        "titre": "Cadriciels",
         "dateModification": "8 février 2021",
+        "couleur": "#7532B6",
         "id": "signet0001"
     },
     {
-        "nom": "React",
+        "titre": "React",
         "dateModification": "24 décembre 2020",
+        "couleur": "#00C1D3",
         "id": "signet0002"
     },
     {
-        "nom": "Plateformes nuagiques",
+        "titre": "Plateformes nuagiques",
         "dateModification": "12 janvier 2021",
+        "couleur": "#52C625",
         "id": "signet0003"
     },
     {
-        "nom": "IDEs (nuagique)",
+        "titre": "IDEs (nuagique)",
         "dateModification": "5 mars 2020",
+        "couleur": "#008AE3",
         "id": "signet0004"
     },
     {
-        "nom": "Outils JavaScript",
+        "titre": "Outils JavaScript",
         "dateModification": "4 décembre 2020",
+        "couleur": "#D3011E",
         "id": "signet0005"
     },
     {
-        "nom": "Javascript",
+        "titre": "Javascript",
         "dateModification": "9 février 2021",
+        "couleur": "#000000",
         "id": "signet0006"
     },
     {
-        "nom": "Firebase",
+        "titre": "Firebase",
         "dateModification": "4 février 2021",
+        "couleur": "#F9AD0C",
         "id": "signet0007"
     },
     {
-        "nom": "GraphQL",
+        "titre": "GraphQL",
         "dateModification": "24 janvier 2021",
+        "couleur": "#FF0080",
         "id": "signet0008"
     }
 ]

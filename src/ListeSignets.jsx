@@ -7,7 +7,7 @@ export default function ListeProduits(props) {
         <div className="ListeSignet">
         <ul>
         {tabSignet.map(signet => 
-        <Signet key={signet.id} nom={signet.nom} dateModification={"Modifié : " + signet.dateModification} id={signet.id}/>  
+        <Signet key={signet.id} titre={signet.titre} dateModification={"Modifié : " + signet.dateModification} couleur={signet.couleur} id={signet.id}/>  
         )}
         </ul>
         </div>
