@@ -4,9 +4,9 @@ export default function Entete(props) {
     return (
         <header className="Entete">
             <ul className="navPrincipale">
-                <li>Signets</li>
-                <li>Kimlee Galarneau</li>
-                <li><img src="" className="avatar"/></li>
+                <li className="titre">Signets</li>
+                <li className="nomUtilisateur">Kimlee Galarneau</li>
+                <li><img src='avatar/avatar.jpg' className="avatar"/></li>
             </ul>
         </header>
     )
