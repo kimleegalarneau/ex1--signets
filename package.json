@@ -2,6 +2,7 @@
   "name": "ex1-signets",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kimleegalarneau.github.io/ex1-signets",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "node-sass": "^5.0.0",
@@ -15,7 +16,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "preghdeploy": "npm run build",
-    "ghdeploy": "gh-pages -d build"
+    "ghdeploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
