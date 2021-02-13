@@ -4,8 +4,8 @@ import './BtnAjouterSignet.scss';
 
 export default function BtnAjouterSignet(props) {
     return (
-        <Badge className="BtnAjouterSignet">
-            <button>
+        <Badge>
+            <button className="BtnAjouterSignet">
                 <AddIcon/>
             </button>
         </Badge>
