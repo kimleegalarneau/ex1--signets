@@ -2,7 +2,7 @@
   "name": "ex1-signets",
   "version": "0.1.0",
   "private": true,
-  "homepage-inactife": "https://kimleegalarneau.github.io/ex1-signets/",
+  "homepage": "https://kimleegalarneau.github.io/ex1-signets/",
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
